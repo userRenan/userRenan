@@ -2,7 +2,7 @@
 
 ## 📊 Ciência de Dados | Python
 
-Atualmente estou estudando **Ciência de Dados**, desenvolvendo projetos práticos utilizando Python e ferramentas de análise e visualização de dados.
+Atualmente estou estudando **Ciência de Dados**, desenvolvendo projetos práticos utilizando Python, SQL e ferramentas de análise e visualização de dados.
 
 Meu objetivo é construir uma base sólida em análise de dados e desenvolver projetos que demonstrem minha evolução e aprendizado na área.
 
@@ -13,6 +13,7 @@ Meu objetivo é construir uma base sólida em análise de dados e desenvolver pr
 * 📓 Jupyter Notebook
 * 🔧 Git
 * 🐙 GitHub
+* 🗄️ SQL
 
 ## 📂 Projetos
 
