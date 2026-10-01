@@ -9,8 +9,7 @@ Meu objetivo é construir uma base sólida em análise de dados e desenvolver pr
 ## 🛠️ Tecnologias e ferramentas
 
 * 🐍 Python
-* 🐼 Pandas
-* 📊 Matplotlib
+* 🐼 Pandas, Matplotlib, Numpy, Seaborn
 * 📓 Jupyter Notebook
 * 🔧 Git
 * 🐙 GitHub
@@ -26,7 +25,7 @@ Projeto de análise exploratória de dados de vendas utilizando Python, Pandas, 
 ## 📚 Atualmente estudando
 
 * Análise e tratamento de dados
-* Pandas
+* Bibliotecas Pyhton
 * Visualização de dados
 * Estatística aplicada à análise de dados
 * Git e GitHub
